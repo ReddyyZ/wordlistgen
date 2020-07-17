@@ -1,5 +1,7 @@
 <h1 align="center">Simple Wordlist Generator</h1>
 
+> Example file: [wordlist.txt](wordlist.txt)
+
 ## What is this
 Generates all possible passwords of the defined length.
 
@@ -20,6 +22,7 @@ wordlist.generate()
 
 ## How to use
 ```python main.py -l 4 -f wordlist.txt```
+
 The -l option sets the length of the passwords
 The -f option sets the output filename
 

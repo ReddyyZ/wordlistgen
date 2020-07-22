@@ -3,7 +3,7 @@
 > Example file: [wordlist.txt](wordlist.txt)
 
 ## What is this
-Generates all possible passwords of the defined length.
+A simple script that's generates all possible passwords of the defined length.
 
 ## Want to use in your code?
 You can use the **wordlists.py** in the **include** dir in your code. This contains a class Wordlist.
